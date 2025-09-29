@@ -1,4 +1,7 @@
 # Employee-Performance-Analysis
+
+### python data analysis
+
 1. python library use panddas, numpy, seaborn, matplotlib
 2. Data Cleaning and Preparation
 3. Exploratory Data Analysis (EDA)
