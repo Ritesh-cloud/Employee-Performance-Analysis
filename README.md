@@ -6,4 +6,4 @@
 2. Data Cleaning and Preparation
 3. Exploratory Data Analysis (EDA)
 4. Performance Metrics Analysis
-5.  Regression Analysis
+5.  Regression Analysis.
